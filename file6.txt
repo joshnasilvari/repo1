@@ -1,0 +1,1 @@
+This is used to create and set the example for fetch command 
